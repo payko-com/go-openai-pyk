@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/payko-com/go-openai"
-	"github.com/payko-com/go-openai/internal/test/checks"
+	"github.com/sashabaranov/go-openai"
+	"github.com/sashabaranov/go-openai/internal/test/checks"
 )
 
 // TestMessages Tests the messages endpoint of the API using the mocked server.
