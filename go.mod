@@ -1,5 +1,5 @@
 module github.com/payko-com/go-openai
 
-go 1.18
+go 1.21.0
 
-replace github.com/sashabaranov/go-openai => github.com/payko-com/go-openai latest
+require github.com/sashabaranov/go-openai v1.17.5
