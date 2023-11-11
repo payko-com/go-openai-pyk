@@ -9,9 +9,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/payko-com/go-openai"
-	"github.com/payko-com/go-openai/internal/test/checks"
-	"github.com/payko-com/go-openai/jsonschema"
+	"github.com/payko-com/go-openai-pyk"
+	"github.com/payko-com/go-openai-pyk/internal/test/checks"
+	"github.com/payko-com/go-openai-pyk/jsonschema"
 )
 
 func TestAPI(t *testing.T) {

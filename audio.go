@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	utils "github.com/payko-com/go-openai/internal"
+	utils "github.com/payko-com/go-openai-pyk/internal"
 )
 
 // Whisper Defines the models provided by OpenAI to use when processing audio with OpenAI.

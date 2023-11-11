@@ -7,8 +7,8 @@ import (
 	"os"
 	"testing"
 
-	utils "github.com/payko-com/go-openai/internal"
-	"github.com/payko-com/go-openai/internal/test/checks"
+	utils "github.com/payko-com/go-openai-pyk/internal"
+	"github.com/payko-com/go-openai-pyk/internal/test/checks"
 )
 
 func TestFileUploadWithFailingFormBuilder(t *testing.T) {

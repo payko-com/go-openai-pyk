@@ -7,7 +7,7 @@ assignees: ""
 ---
 
 Your issue may already be reported!
-Please search on the [issue tracker](https://github.com/payko-com/go-openai/issues) before creating one.
+Please search on the [issue tracker](https://github.com/payko-com/go-openai-pyk/issues) before creating one.
 
 **Describe the bug**
 A clear and concise description of what the bug is. If it's an API-related bug, please provide relevant endpoint(s).
@@ -23,7 +23,7 @@ If applicable, add screenshots to help explain your problem. For non-graphical i
 
 **Environment (please complete the following information):**
 
-- go-openai version: [e.g. v1.12.0]
+- go-openai-pyk version: [e.g. v1.12.0]
 - Go version: [e.g. 1.18]
 - OpenAI API version: [e.g. v1]
 - OS: [e.g. Ubuntu 20.04]

@@ -3,8 +3,8 @@ package openai_test
 import (
 	"context"
 
-	openai "github.com/payko-com/go-openai"
-	"github.com/payko-com/go-openai/internal/test/checks"
+	openai "github.com/payko-com/go-openai-pyk"
+	"github.com/payko-com/go-openai-pyk/internal/test/checks"
 
 	"encoding/json"
 	"fmt"

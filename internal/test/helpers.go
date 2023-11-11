@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/payko-com/go-openai/internal/test/checks"
+	"github.com/payko-com/go-openai-pyk/internal/test/checks"
 
 	"net/http"
 	"os"

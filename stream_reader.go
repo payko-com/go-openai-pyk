@@ -7,7 +7,7 @@ import (
 	"io"
 	"net/http"
 
-	utils "github.com/payko-com/go-openai/internal"
+	utils "github.com/payko-com/go-openai-pyk/internal"
 )
 
 var (

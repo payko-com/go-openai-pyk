@@ -12,9 +12,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/payko-com/go-openai"
-	"github.com/payko-com/go-openai/internal/test"
-	"github.com/payko-com/go-openai/internal/test/checks"
+	"github.com/payko-com/go-openai-pyk"
+	"github.com/payko-com/go-openai-pyk/internal/test"
+	"github.com/payko-com/go-openai-pyk/internal/test/checks"
 )
 
 // TestAudio Tests the transcription and translation endpoints of the API using the mocked server.

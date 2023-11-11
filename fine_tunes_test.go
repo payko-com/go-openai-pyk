@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/payko-com/go-openai"
-	"github.com/payko-com/go-openai/internal/test/checks"
+	"github.com/payko-com/go-openai-pyk"
+	"github.com/payko-com/go-openai-pyk/internal/test/checks"
 )
 
 const testFineTuneID = "fine-tune-id"
